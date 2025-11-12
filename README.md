@@ -71,7 +71,7 @@
       .nutrition-table td{
         border-bottom: 1px solid #5f574e62;
         text-align: left;
-        padding: 10px 0;     
+        padding: 10px 0;
        }
         .nutrition-table td {
         text-align: left;
@@ -97,11 +97,12 @@
         }
       }
     </style>
+
   </head>
   <body> 
     <div class="main-cont">
       <div class="image-cont">
-        <img class="main-image" src="Images/image-omelette.jpeg" />
+        <img class="main-image" src="image-omelette.jpeg" />
       </div>
       <h1 class="h1-font">Simple Omlette Recipe</h1>
       <p>
@@ -162,10 +163,11 @@
           <tr>
             <th>Fat</th>
             <td>22g</td>
-          </tr>    
+          </tr>
 
         </table>
       </div>
-    </div>   
+    </div>
+
   </body>
 </html>
