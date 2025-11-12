@@ -101,7 +101,7 @@
   <body> 
     <div class="main-cont">
       <div class="image-cont">
-        <img class="main-image" src="Images/image-omelette.jpeg" />
+        <img class="main-image" src="image-omelette.jpeg" />
       </div>
       <h1 class="h1-font">Simple Omlette Recipe</h1>
       <p>
